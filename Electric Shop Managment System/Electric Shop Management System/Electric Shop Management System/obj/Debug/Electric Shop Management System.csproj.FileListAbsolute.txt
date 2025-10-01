@@ -1,0 +1,23 @@
+D:\c#\Electric Shop Management System\Electric Shop Management System\bin\Debug\Electric Shop Management System.exe.config
+D:\c#\Electric Shop Management System\Electric Shop Management System\bin\Debug\Electric Shop Management System.exe
+D:\c#\Electric Shop Management System\Electric Shop Management System\bin\Debug\Electric Shop Management System.pdb
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric Shop Management System.csproj.AssemblyReference.cache
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric_Shop_Management_System.UserLogin.resources
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric_Shop_Management_System.Properties.Resources.resources
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric Shop Management System.csproj.GenerateResource.cache
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric Shop Management System.csproj.CoreCompileInputs.cache
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric Shop Management System.exe
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric Shop Management System.pdb
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric_Shop_Management_System.Admin.resources
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric_Shop_Management_System.Salesman.resources
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric_Shop_Management_System.ShowUser.resources
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric_Shop_Management_System.ShowProduct.resources
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric_Shop_Management_System.AddProduct.resources
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric_Shop_Management_System.SellProducts.resources
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric_Shop_Management_System.UpdateStock.resources
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric_Shop_Management_System.AddNewCategories.resources
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric_Shop_Management_System.ShowStock.resources
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric_Shop_Management_System.ShowCategory.resources
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric_Shop_Management_System.ShowSale.resources
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric Shop Management System.exe.config
+D:\c#\Electric Shop Management System\Electric Shop Management System\obj\Debug\Electric_Shop_Management_System.SalesmanShowSale.resources
